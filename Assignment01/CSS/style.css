@@ -1,0 +1,345 @@
+body
+{
+	background-color: #F1EADF
+}
+header
+{
+	text-align: center;
+	padding: 40px 0px;
+	background-color: black;
+	color: white;
+	margin: 20px;
+}
+main
+{
+	background-color: white;
+	margin: 20px 60px 20px 60px;
+}
+.div1
+{
+	background-color: white;
+	margin: 30px 330px 30px 330px;
+	padding-bottom: 60px;
+}
+.div2
+{
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.div2a
+{
+	margin-top: 5px;
+	color: #333333;
+	font-size: 14px;
+}
+.div3
+{
+	border-radius: 15px;
+	background-color: #F5F6F7;
+	height: 70px;
+	border: 1px solid #B4BDC9;
+	width: 750px;
+	margin-bottom: 50px;
+}
+.Section1
+{
+	border-top: 1px solid lightgrey;
+	padding-top: 80px;
+}
+.Sectionp
+{
+	color: #333333;
+}
+.Section1a
+{
+	font-size: 20px;
+	line-height: 30px;
+	color: #333333;
+}
+.Section1b
+{
+	text-decoration: none;
+	color: #3f88c5;
+}
+.Section1c
+{
+	font-size: 20px;
+	line-height: 30px;
+	color: #333333;
+}
+.Section1d
+{
+	font-size: 20px;
+	line-height: 30px;
+}
+.Section1e
+{
+	font-size: 20px;
+	line-height: 25px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #4e5d6f;
+}
+.Section1f
+{
+	color: #3f88c5;
+}
+.Section2
+{
+	border-top: 1px solid lightgrey;
+}
+.Section2a
+{
+	padding: 20px 180px 20px 10px;
+}
+.Section3
+{
+	border-top: 1px solid lightgrey;
+}
+.Section3a
+{
+	padding: 20px 183px 20px 10px;
+}
+.Section4
+{
+	border-top: 1px solid lightgrey;
+}
+.Section4a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section5
+{
+	border-top: 1px solid lightgrey;
+}
+.Section5a
+{
+	padding: 20px 186px 20px 10px;
+}
+.Section6
+{
+	border-top: 1px solid lightgrey;
+}
+.Section6a
+{
+	padding: 20px 189px 20px 10px;
+}
+.Section7
+{
+	border-top: 1px solid lightgrey;
+}
+.Section7a
+{
+	padding: 20px 189px 20px 10px;
+}
+.Section8
+{
+	border-top: 1px solid lightgrey;
+}
+.Section8a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section9
+{
+	border-top: 1px solid lightgrey;
+}
+.Section9a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section10
+{
+	border-top: 1px solid lightgrey;
+}
+.Section10a
+{
+	padding: 20px 183px 20px 10px;
+}
+.Section11
+{
+	border-top: 1px solid lightgrey;
+}
+.Section11a
+{
+	padding: 20px 183px 20px 10px;
+}
+.Section12
+{
+	border-top: 1px solid lightgrey;
+}
+.Section12a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section13
+{
+	border-top: 1px solid lightgrey;
+}
+.Section13a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section14
+{
+	border-top: 1px solid lightgrey;
+}
+.Section14a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section15
+{
+	border-top: 1px solid lightgrey;
+}
+.Section15a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section16
+{
+	border-top: 1px solid lightgrey;
+}
+.Section16a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section17
+{
+	border-top: 1px solid lightgrey;
+}
+.Section17a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section18
+{
+	border-top: 1px solid lightgrey;
+}
+.Section18a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section19
+{
+	border-top: 1px solid lightgrey;
+}
+.Section19a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section20
+{
+	border-top: 1px solid lightgrey
+}
+.Section20a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section21
+{
+	border-top: 1px solid lightgrey;
+}
+.Section21a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section22
+{
+	border-top: 1px solid lightgrey;
+}
+.Section22a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section23
+{
+	border-top: 1px solid lightgrey;
+}
+.Section23a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section24
+{
+	border-top: 1px solid lightgrey;
+}
+.Section24a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section25
+{
+	border-top: 1px solid lightgrey;
+}
+.Section25a
+{
+	padding: 20px 180px 20px 10px;
+}
+.Section26
+{
+	border-top: 1px solid lightgrey;
+}
+.Section26a
+{
+	padding: 20px 184px 20px 10px;
+}
+.Section27
+{
+	border-top: 1px solid lightgrey;
+}
+.Section27a
+{
+	padding: 20px 186px 20px 10px;
+}
+.Section28
+{
+	border-top: 1px solid lightgrey;
+}
+.Section28a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section29
+{
+	border-top: 1px solid lightgrey;
+}
+.Section29a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section30
+{
+	border-top: 1px solid lightgrey;
+}
+.Section30a
+{
+	padding: 20px 188px 20px 10px;
+}
+.Section31
+{
+	border-top: 1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
+}
+.Section31a
+{
+	padding: 20px 188px 20px 10px;
+}
+.footer
+{
+	border-top: 1px solid lightgrey;
+	text-align: center;
+	margin: 40px 330px 50px 330px;
+	padding-top: 40px;
+	padding-bottom: 10px;
+	color: #7f7d8c;
+	font-size: 14px;
+}
+.footera
+{
+	color: #3f88c5;
+}
+
+
+
