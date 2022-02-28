@@ -1,0 +1,91 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	/*background: url(Image.jpg) no-repeat;*/
+	background: url(https://imgur.com/69jeVKU.jpg) no-repeat;
+	background-size: cover;
+	font-family: sans-serif;
+}
+.Loginbox
+{
+	width: 510px;
+	height: 620px;
+	background: rgba(0, 0, 0, 0.7);
+        position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 10%;
+}
+.Avatar
+{
+	width: 100px;
+	height: 100px;
+	border-radius: 60%;
+	position: absolute;
+	top: -50px;
+        left: 210px;
+}
+.WCmsg
+{
+	margin-top: 85px;
+	margin-bottom: 80px;
+	text-align: center;
+        color: white;
+}
+.form h2
+{
+	margin: 20px 40px 0px 55px;
+	color: white;
+	
+}
+.form input
+{
+	width: 400px;
+	height: 50px;
+	margin: 10px 40px 20px 55px;
+}
+.form input[type="text"], [type="password"]
+{
+	border: none;
+	outline: none;
+	border-bottom: 1px solid #EE7421;
+	background: transparent;
+	color: white;
+}
+.form input[placeholder="Enter Email ID"]
+{
+	font-size: 20px;
+}
+.form input[placeholder="••••••••"]
+{
+	font-size: 30px;
+}
+.form input[type="submit"]
+{
+	border: none;
+	background-color: #EE7421;
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	height: 60px;
+	border-radius: 30px;
+}
+.form input[type="submit"]:hover
+{
+	cursor: pointer;
+	background: white;
+	color: #EE7421;
+}
+.form a
+{
+	text-decoration: none;
+	font-size: 25px;
+	color: grey;
+	margin-left: 158.575px;
+}
+.form a:hover
+{
+	color: white;
+}

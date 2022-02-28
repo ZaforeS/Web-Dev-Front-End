@@ -1,0 +1,309 @@
+
+.mrg
+{
+   margin: 0;
+   padding: 0;
+   font-family: 'Roboto', sans-serif;
+}
+.header
+{
+	background-image: url(../Image/bgimage.jpg);
+	min-height: 900px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.headernav
+{
+	width: 100%;
+	background-color: #31535F;
+	height: 50px;
+	box-shadow: 0 0 100px orange;
+	border-bottom: 5px solid orange;
+	 
+}
+.headernav ul
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	padding-top: 13px;
+	float: right;
+}
+.headernav ul li
+{
+	padding-right: 100px;
+	float: left;
+}
+.headernav ul li a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 2px;
+}
+.headernav ul li a:hover
+{
+	background-color: white;
+	color: #31535F;
+	transition: 1s;
+}
+.headernav ul li a i
+{
+	color: orange;
+}
+.headerlogo
+{
+	padding-left: 699px; 
+}
+.logo
+{
+	position: absolute;
+	top: 400px;
+	width: 80px;
+	height: 103px;
+    background-color: #31535F;
+    opacity: 0.7;
+}
+.line1
+{
+	position: absolute;
+	top: 5px;
+	height: 9px;
+	width: 70px;
+	margin-left: 5px;
+	background-color: white;
+}
+.line2
+{
+	position: absolute;
+	top: 19px;
+	height: 9px;
+	width: 70px;
+	margin-left: 5px;
+	background-color: white;
+}
+.line3
+{
+	position: absolute;
+	top: 32px;
+	height: 9px;
+	width: 70px;
+	margin-left: 5px;
+	background-color: white;
+}
+.line4
+{
+	position: absolute;
+	top: 46px;
+	height: 9px;
+	width: 70px;
+	margin-left: 5px;
+	background-color: white;
+}
+.line5
+{
+	position: absolute;
+	top: 60px;
+	height: 9px;
+	width: 70px;
+	margin-left: 5px;
+	background-color: orange;
+}
+.line6
+{
+	position: absolute;
+	top: 74px;
+	height: 9px;
+	width: 48px;
+	margin-left: 5px;
+	background-color: orange;
+}
+.line7
+{
+	position: absolute;
+	top: 88px;
+	height: 9px;
+	width: 32px;
+	margin-left: 5px;
+	background-color: orange;
+}
+.headertext
+{
+	position: absolute;
+	top: 345px;
+	left: 799px;
+}
+.headertext h1
+{
+	color: orange;
+	font-size: 70px;
+	margin-bottom: 0px;
+}
+.headertext p
+{
+	margin-top: 0px;
+	padding-left: 40px;
+	font-size: 20px;
+}
+.info
+{
+	width: 100%;
+	min-height: 700px; 
+}
+.section1
+{
+	height: 700px;
+	width: 90%;
+	margin: 0 auto;
+}
+.section1a
+{
+	position: relative;
+	top: 100px;
+	height: 500px;
+	width: 22%;
+	box-shadow: 0 0 10px orange;
+	border-top: 15px solid orange;
+	border-radius: 15px;
+}
+.section1b
+{
+	position: relative;
+	top: -417px;
+	left: 20%;
+	height: 500px;
+	width: 22%;
+	box-shadow: 0 0 10px orange;
+	border-top: 15px solid orange;
+	border-radius: 15px;
+	margin-left: 6%;
+}
+.section1c
+{
+	position: relative;
+	top: -934px;
+	left: 40%;
+	height: 500px;
+	width: 22%;
+	box-shadow: 0 0 10px orange;
+	border-top: 15px solid orange;
+	border-radius: 15px;
+	margin-left: 12%;
+}
+.section1d
+{
+	position: relative;
+	top: -1451px;
+	left: 60%;
+	height: 500px;
+	width: 22%;
+	box-shadow: 0 0 10px orange;
+	border-top: 15px solid orange;
+	border-radius: 15px;
+	margin-left: 18%;
+}
+.greenbox
+{
+	background-color: #31535F;
+	width: 80%;
+	height: 35px;
+	margin-left: 10%;
+	margin-top: 25px;
+	border-radius: 5px;
+}
+.greenboxtext
+{
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 5px;
+	text-align: center;
+}
+.sectiontext
+{
+	text-align: justify;
+	font-size: 18px;
+	width: 80%;
+	margin-left: 10%;
+}
+.banner
+{
+	height: 900px;
+	background-image: url(../Image/bannerbg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center; 
+}
+.bannertextbox
+{
+	position: relative;
+	top: 200px;
+	left: 20%;
+	height: 500px;
+	width: 60%;
+	border: 10px solid orange;
+	background-color: white;
+	opacity: 0.8;
+}
+.bannerwrapper
+{
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+}
+.bannerwrapper h1
+{
+	color: orange;
+	margin-top: 100px;
+}
+.bannerwrapper p
+{
+	text-align: justify;
+	font-size: 20px;
+}
+.footer
+{   
+	border-top: 5px solid orange;
+	background-color: white;
+}
+.footernav ul
+{
+	margin-top: 50px;
+	position: absolute;
+	left: 41%; 
+}
+.footernav ul li a
+{
+   color: orange;
+}
+.footernav ul li
+{
+   float: left;
+   padding: 10px 10px;
+   list-style: none;
+   font-size: 30px;
+   border-radius: 1px; 
+}
+.footernav ul li a:hover
+{
+   float: left;
+   padding: 10px 10px;
+   list-style: none;
+   font-size: 30px; 
+   box-shadow: 0 0 10px orange;
+   border-radius: 1px;
+   transition: 1s;
+}
+.copyright
+{
+	margin-top: 120px;
+	text-align: center;
+	margin-bottom: 25px;
+}
+.developedby
+{
+	text-align: center;
+	margin-bottom: 60px;
+}

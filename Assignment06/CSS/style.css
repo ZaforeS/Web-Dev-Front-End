@@ -1,0 +1,296 @@
+/*Topbar Start*/
+.header-section
+{
+	background-color: #f0f2f4
+}
+.topbar-content
+{
+	display: inline-block;
+	padding-left: 5px;
+	padding-top: 10px;
+}
+/*Topbar End*/
+/*Navbar Start*/
+.bg-light
+{
+	background-color: #f8f9fa00 !important;
+}
+.navigation_button
+{
+	color: white;
+	font-weight: bold;
+	background-color: #de2b24;
+	cursor: pointer;
+	border-radius: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	margin-left: 10px;
+}
+.nav-link
+{
+	font-weight: bold;
+}
+.nav-link:hover
+{
+	text-decoration: underline;
+}
+/*Navbar End*/
+/*Slider Start*/
+.banner
+{
+	background-image: url(../Images/slider.jpg);
+	min-height: 550px;
+	background-size: cover;
+}
+.banner_text
+{
+	margin-top: 180px;
+	color: white;
+}
+.btn:not([disabled]):not(.disabled)
+{
+	cursor: pointer;
+	background-color: #f8CD53;
+	color: white;
+	font-weight: bold;
+	margin-top: 10px;
+}
+/*About Us start*/
+.about
+{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.about_underline
+{
+	width: 12%;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	background-color: black;
+	height: 3px;
+}
+.about_underline1
+{
+	width: 12%;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	background-color: white;
+	height: 3px;
+}
+.about_text1
+{
+	margin-top: 40px;
+}
+/*Extra CSS*/
+.padding-zero
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+.margin-bottom
+{
+	margin-bottom: 30px;
+}
+/*Extra CSS*/
+/*Our Approach Start*/
+.approach
+{
+	background-color: #f3f3f3;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.approach_underline
+{
+	width: 12%;
+	margin-top: 0px;
+	margin-bottom: 32px;
+	background-color: black;
+	height: 3px;
+}
+.approach_container1
+{
+	background-color: white;
+	width: 80%;
+	margin-left: 10%;
+}
+.approach-img1 .step
+{
+	width: 100px;
+	background: #de2b24;
+	height: 100px;
+	text-align: center;
+	position: absolute;
+	top: 16%;
+	left: 40px;
+	transform: translate(250%);
+	color: white;
+	padding-top: 35px;
+	border: 1px solid white;
+	font-size: 18px;
+}
+.approach-img1 .step2
+{
+	width: 100px;
+	background: #de2b24;
+	height: 100px;
+	text-align: center;
+	position: absolute;
+	top: 16%;
+	left: -40px;
+	transform: translate(-5%);
+	color : #fff;
+	padding-top: 35px;
+	border: 1px solid white;
+	font-size: 18px;
+}
+.approach-content1
+{
+	padding-left: 50px;
+	padding-top: 35px;
+}
+.approach-content2
+{
+	padding-right: 50px;
+	padding-top: 35px;
+	text-align: right;
+}
+/*Our Approach End*/
+/*Our Work Start*/
+.work
+{
+	background-color: #de2b24;
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+.work_content
+{
+	color: white;
+}
+.work_para
+{
+	color: white;
+}
+.work-boxcontent
+{
+	color: white;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 18px; 
+}
+.work-boxpara
+{
+	color: white;
+	text-align: center; 
+}
+.icon-image
+{
+	display: block;
+	font-size: 40px;
+	padding-top: 35px;
+	color: #787575;
+}
+.background-color
+{
+	background-color: #f35e59;
+	width: 25%;
+}
+/*Our Work End*/
+/*Contact Start*/
+.contact
+{
+	background-color: #1287bf;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: white;
+}
+.contact_background
+{
+	background-color: white;
+	padding-bottom: 45px;
+}
+.contact_para
+{
+	color: #828282;
+	padding-top: 30px;
+}
+.contact-button
+{
+	background-color: #de2b24;
+	color: white;
+	border-radius: 5px;
+	padding: 8px 22px;
+	margin-left: 503px;
+}
+#triangle-up
+{
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 40px solid white;
+}
+.contact-icon
+{
+	font-size: 25px;
+	border: 2px solid;
+	padding: 25px;
+	border-radius: 50%;
+}
+.contact_background
+{
+	background-color: white;
+	padding-top: 30px;
+}
+/*Contact End*/
+/*Social Start*/
+.social
+{
+	background-color: #2a2a2a;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.social_content
+{
+	color: white;
+}
+.social_para
+{
+	color: white;
+}
+.social-button
+{
+	background-color: #2a2a2a;
+	color: white;
+	border-radius: 4px;
+	padding : 7px 35px;
+	margin-left: 286px;
+}
+.footer-social
+{
+	color: white;
+	display: inline-block;
+	border: 1px solid white;
+	padding-left: 14px;
+	padding-right: 14px;
+	margin-left: 14px;
+	font-size: 20px;
+}
+/*Social End*/
+/*footer start*/
+footer
+{
+	background: #515151;
+	color: white;
+}
+.footer-para
+{
+	color: white;
+	padding-top: 12px;
+	padding-bottom: 12px;
+    margin: 0;
+}
+/*footer End*/

@@ -1,0 +1,189 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+
+.logo 
+{
+	margin-top: 5px;
+	margin-left: 55px; 
+}
+.header
+{
+	min-height: 100px;
+	background-color: #121B2C;
+	overflow: hidden;
+}
+.wrapper
+{
+	width: 80%;
+	margin: 0 auto;
+}
+.nav
+{   
+	width: 80%;
+    float: right;
+}
+.nav ul
+{
+	list-style: none;
+}
+.nav ul li
+{
+	float: left;
+	margin-left: 120px;
+	padding-top: 20px;
+}
+.nav a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+.nav ul li a:hover
+{
+	color: #007ABD;
+}
+.banner
+{
+	background-image: url(../Image/banner.jpg);
+	min-height: 450px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	overflow: hidden; 
+}
+.bannertext
+{
+	padding-top: 75px;
+	margin-left: 60px;
+}
+.bannertext h3
+{
+	color: white;
+	font-size: 40px;
+	margin-bottom: 0;
+}
+.bannertext h1
+{
+	color: #73C8FF;
+	font-size: 45px;
+	margin-top: 0;
+}
+.bannertext p
+{
+	color: white;
+	font-size: 20px;
+	width: 580px;
+}
+.bannertext input[type="submit"]
+{
+	border: none;
+	background-color: white;
+	font-size: 14px;
+	height: 30px;
+	width: 100px;
+	border-radius: 20px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.bannertext input[type="submit"]:hover
+{
+	background-color: red;
+	color: white;
+	transition: 1s;
+}
+.service
+{
+	background-color: #121B2C;
+	overflow: hidden;
+	color: white;
+	min-height: 450px;
+}
+.servicesection
+{
+	
+	margin: 95px 0px;
+}
+.service1
+{
+	float: left;
+	width: 430px;
+	padding-left: 70px;
+	padding-right: 0px;
+	margin-right: 0px;
+	border-right: 1px solid grey;
+}
+.service1:last-child
+{
+	border-right: none;
+}
+.service1:first-child
+{
+	padding-left: 70px;
+}
+.contentimage
+{   
+	width: 27%;
+	float: left;
+}
+.contenttext p
+{
+	font-size: 18px;
+	padding-right: 0px;
+	margin-right: 0px;
+}
+.contenttext2 p
+{
+	font-size: 18px;
+	padding-right: 0px;
+	margin-right: 0px;
+}
+.footer
+{
+	min-height: 100px;
+	background-color: #121B2C;
+	overflow: hidden;
+	border-top: 1px solid black;
+}
+.footernav
+{   
+	width: 50%;
+    float: left;
+}
+.footernav ul
+{
+	list-style: none;
+	margin: 10px 0 ;
+}
+.footernav ul li
+{
+	float: left;
+	margin-left: 20px;
+	padding-top: 20px;
+	color: white;
+}
+.footernav a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+}
+.footernav ul li a:hover
+{
+	color: #007ABD;
+}
+.footerlogo
+{
+	float: right;
+	margin-top: 20px;
+	margin-right: 65px;
+}
+.footernav p
+{
+    color: white;
+    font-size:18px; 
+    padding: 15px 0px;
+    margin-left: 59px;
+}

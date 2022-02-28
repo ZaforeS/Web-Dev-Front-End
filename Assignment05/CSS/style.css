@@ -1,0 +1,228 @@
+body
+{
+	background: black;
+}
+.box
+{ 
+	height: 30px;
+	width: 500px;
+	margin-left: 545px;
+	margin-bottom: 100px;
+}
+.copyc
+{
+	text-align: center;
+}
+#topbar
+{
+	background-color: black !important;
+}
+#logo
+{
+	color: #FFC107;
+	font-size: 25px !important;
+	font-weight: bold !important;
+	padding-left: 30px !important;
+}
+#sbar
+{
+	
+	background: transparent !important;
+	border-radius: 50px !important;
+	border: 3px solid #FFC107 !important;
+	outline: none !important;
+}
+#sbar[placeholder="Search"]
+{
+	font-weight: bold !important;
+}
+#li
+{
+	padding-left: 200px !important;
+	font-size: 20px !important;
+	font-weight: bold !important;
+}
+#c1
+{
+	margin-left: 200px !important;
+}
+#btn
+{
+	
+    position: absolute !important;
+    padding-top: 5px !important;
+    width: 45px !important;
+    height: 46px !important;
+    color: black !important;
+    background: #FFC107 !important;
+    border: none !important;
+    border-radius: 50px;
+    right: 20px !important;
+    font-size: 20px;
+}
+#carouselExampleCaptions
+{
+	height: 700px !important;	
+}
+.carousel-inner
+{
+	border: 3px solid #FFC107;
+}
+.carousel-item
+{
+	height: 700px !important;
+}
+.carousel-item img
+{
+	top: -200px !important;
+}
+.card
+{
+	margin-left: 40px !important;
+	margin-top: 40px !important;
+	margin-bottom:  40px !important;
+}
+#mycontainer
+{
+	min-width: 1600px !important;
+}
+#mycontainer1
+{
+	border-top: 3px solid black !important;
+	min-width: 1570px !important;
+	background-color: #FFC107 !important;
+}
+#mycontainer2
+{
+	border-top: 3px solid black !important;
+	background-color: #FFC107 !important;
+	min-width: 1570px !important;
+	height: 120px !important;
+}
+#bnbar
+{
+	margin-top: 15px !important;
+	padding-left: 35% !important;
+}
+#li2
+{
+	
+	font-size: 20px !important;
+    padding-left: 20px;
+	
+}
+#li3
+{
+	border-radius: 5px;
+}
+#li3:hover
+{
+	color: #FFC107 ;
+	background-color: black !important;
+	border-radius: 5px;
+}
+#formcontainer
+{
+    min-width:1370px !important; 
+	background-color: #FFC107;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: 30px;
+
+}
+#formcontainer h1
+{
+	text-align: center !important;
+	padding-bottom: 40px;
+}
+#aboutcontainer
+{
+	min-width:1370px !important;
+	min-height: 500px;
+	background-color: #FFC107;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: 30px;
+}
+.footer
+{   
+	border-top: 5px solid orange;
+	background-color: white;
+}
+.footernav ul
+{
+	padding-top: 20px;
+	margin-top: 50px;
+	position: absolute;
+	left: 41%; 
+}
+.footernav ul li a
+{
+   color: orange;
+}
+.footernav ul li
+{
+   float: left;
+   padding: 10px 10px;
+   list-style: none;
+   font-size: 30px;
+   border-radius: 1px; 
+}
+.footernav ul li a:hover
+{
+   float: left;
+   padding: 10px 10px;
+   list-style: none;
+   font-size: 30px; 
+   border-radius: 1px;
+   transition: 1s;
+}
+.bannerwrapper
+{
+	margin-top: 50px;
+	padding-right:40px;
+	padding-left:40px;
+}
+.bannerwrapper p
+{
+	font-size: 20px;
+}
+#image
+{
+	padding: 12px 10px;
+}
+#image1
+{
+	padding: 28px 10px;
+}
+#image2
+{
+	padding: 13px 10px;
+}
+#image4
+{
+	padding: 13px 10px;
+}
+#image5
+{
+	padding: 14px 10px;
+}
+#image6
+{
+	padding: 17.5px 10px;
+}
+#col1
+{
+	padding-bottom: 15px;
+}
+#mycontainer5
+{
+	margin-top: 40px;
+   min-width: 1600px;
+}
+#sub
+{
+	background-color: black;
+	color: #FFC107;
+	border: 1px solid black;
+}
